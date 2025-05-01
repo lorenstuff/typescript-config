@@ -1,5 +1,5 @@
-# Donut Team TypeScript Configuration
-This repo contains our TypeScript configuration which is used by our other NPM packages and internal projects.
+# TypeScript Configuration
+A sensible TypeScript configuration. 
 
 ## License
-[MIT](https://github.com/donutteam/typescript-config/blob/main/LICENSE.md)
+[MIT](https://github.com/lorenstuff/typescript-config/blob/main/LICENSE.md)
